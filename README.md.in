@@ -4,6 +4,10 @@
 
 Icons for `itk-viewer` user interfaces.
 
+## DEPRECATED
+
+**DEPRECATED**: Please use [@itk-viewer/icons](https://www.npmjs.com/package/@itk-viewer/icons) instead.
+
 ## Installation
 
 ```
